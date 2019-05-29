@@ -1,6 +1,9 @@
 # My Private Source Apps
 Here you can find screenshots and the changelogs of my applications that are built from scratch which I have no authority to share its source code
 
+-  [x]  All Projects are using AndroidX implementation.
+-  [x]  All Projects are written with the standards of high-quality code.
+
 ---
 ## Alexandria - The City Next Door
 An in-progress Application that shows the world how beautiful Alexandria(Egypt) is. It helps visitors to get discounts, know which place is the best to go to, guide them and so much more.
