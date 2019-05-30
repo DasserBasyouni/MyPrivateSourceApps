@@ -3,6 +3,7 @@ Here you can find screenshots and the changelogs of my applications that are bui
 
 -  [x]  All Projects are using AndroidX implementation.
 -  [x]  All Projects are written with the standards of high-quality code.
+-  [x]  All Projects are awar of Android lifecycle.
 
 ---
 ## Alexandria - The City Next Door
