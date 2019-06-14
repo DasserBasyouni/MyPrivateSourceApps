@@ -20,7 +20,7 @@ An in-progress Application that shows the world how beautiful Alexandria(Egypt) 
   <br />Fawry</h2>
   
 [![Appetize.IO Badge](http://tiny.cc/q8ca8y)](https://appetize.io/embed/ne6brq77jxmqt5cc593uwn75pc)
-
+[![Download Badge](https://img.shields.io/badge/Download-Apk-orange.svg)](https://github.com/DasserBasyouni/MyPrivateSourceApps/releases/download/v1.0/Fawry.apk)
 <br />
 
 A completed Application that displays [Fawry website](https://fawry.com/) fully functional with 
@@ -40,7 +40,7 @@ A completed Application that displays [Fawry website](https://fawry.com/) fully 
   <br />Andalusia</h2>
   
 [![Appetize.IO Badge](http://tiny.cc/q8ca8y)](https://appetize.io/embed/ju8ynytz6tn4jngy2arvehby3w)
-
+[![Download Badge](https://img.shields.io/badge/Download-Apk-orange.svg)](https://github.com/DasserBasyouni/MyPrivateSourceApps/releases/download/v1.0/Andalusia.apk)
 <br />
 
 A completed Application that displays [Andalusia Group website](http://andalusiagroup.net) fully functional with 
