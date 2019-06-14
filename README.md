@@ -13,7 +13,8 @@ An in-progress Application that shows the world how beautiful Alexandria(Egypt) 
 <p align="center"> <img src="/screenshots/AlexScreenshot1.png" width="250"> <img src="/screenshots/AlexScreenshot2.png" width="250"> <img src="/screenshots/AlexScreenshot3.png" width="250"> </p>
 
 ---
-## Fawry - [Try it Online](https://appetize.io/embed/ne6brq77jxmqt5cc593uwn75pc)
+## Fawry - [![Appetize.IO Badge](http://tiny.cc/q8ca8y)](https://appetize.io/embed/ne6brq77jxmqt5cc593uwn75pc)
+
 A completed Application that displays Fawry website fully functional with 
 - Two languages.
 - Offline surfing.
