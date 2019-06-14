@@ -4,7 +4,7 @@ Here you can find screenshots and the changelogs of my applications that are bui
 -  [x]  All Projects are using AndroidX implementation.
 -  [x]  All Projects are written with the standards of high-quality code.
 -  [x]  All Projects are awar of Android lifecycle.
--  [x]  All Projects are compatible with Java 8 .
+-  [x]  All Projects are compatible with Java 8 (1.8).
 
 ---
 <h2> <img align="left" src="Icons/Alex.png" width="128" height="128"> 
