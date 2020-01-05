@@ -48,7 +48,7 @@ A completed Application that displays [Fawry website](https://fawry.com/) fully 
 
 A completed Application that displays [Andalusia Group website](http://andalusiagroup.net) fully functional with 
 - Opens social media accounts
-- Show hospital location on map button
+- Show the hospital location on the map button
 - Offline surfing.
 - Custom logo loading.
 - Layout for the used open-source libraries and licenses.
